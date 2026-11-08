@@ -1,0 +1,5 @@
+po_number,supplier,sku,qty,unit_cost_usd
+PO-2026-118,Ningbo Soft Toys Co (sample),WPB40,1000,6.4
+PO-2026-118,Ningbo Soft Toys Co (sample),CDN35,600,5.9
+PO-2026-121,Ningbo Soft Toys Co (sample),SBN30,800,4.7
+PO-2026-124,Yiwu Gift Pack Ltd (sample),GBT03,1500,3.1

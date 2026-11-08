@@ -1,0 +1,12 @@
+shipments:
+- shipment_id: SH-0417
+  forwarder: Nordic Freight A/S (sample)
+  po_numbers:
+  - PO-2026-118
+  agreed_dkk: 16900
+- shipment_id: SH-0421
+  forwarder: Nordic Freight A/S (sample)
+  po_numbers:
+  - PO-2026-121
+  - PO-2026-124
+  agreed_dkk: 21300

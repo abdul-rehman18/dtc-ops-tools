@@ -1,0 +1,55 @@
+{
+  "inventory": [
+    {
+      "sku": "WPB40",
+      "totalOnhandQuantity": 1850,
+      "totalInboundQuantity": 0,
+      "inventoryDetails": {
+        "availableDistributableQuantity": 1800,
+        "reservedDistributableQuantity": 50,
+        "replenishmentQuantity": 0
+      }
+    },
+    {
+      "sku": "SBN30",
+      "totalOnhandQuantity": 2200,
+      "totalInboundQuantity": 0,
+      "inventoryDetails": {
+        "availableDistributableQuantity": 2150,
+        "reservedDistributableQuantity": 50,
+        "replenishmentQuantity": 0
+      }
+    },
+    {
+      "sku": "CDN35",
+      "totalOnhandQuantity": 900,
+      "totalInboundQuantity": 0,
+      "inventoryDetails": {
+        "availableDistributableQuantity": 850,
+        "reservedDistributableQuantity": 50,
+        "replenishmentQuantity": 0
+      }
+    },
+    {
+      "sku": "CWH50",
+      "totalOnhandQuantity": 600,
+      "totalInboundQuantity": 0,
+      "inventoryDetails": {
+        "availableDistributableQuantity": 550,
+        "reservedDistributableQuantity": 50,
+        "replenishmentQuantity": 0
+      }
+    },
+    {
+      "sku": "GBT03",
+      "totalOnhandQuantity": 3100,
+      "totalInboundQuantity": 0,
+      "inventoryDetails": {
+        "availableDistributableQuantity": 3050,
+        "reservedDistributableQuantity": 50,
+        "replenishmentQuantity": 0
+      }
+    }
+  ],
+  "nextToken": null
+}

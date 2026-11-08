@@ -1,0 +1,6 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity	afn-researching-quantity	afn-future-supply-buyable	afn-reserved-future-supply
+WPB40	X00DEMO001	B0DEMO0001	Weighted Plush Bear 40cm	New	39.95	No		Yes	529	520	3	6	529	0.12	0	0	0	0	0	0
+SBN30	X00DEMO002	B0DEMO0002	Sleepy Bunny 30cm	New	29.95	No		Yes	649	640	2	7	649	0.12	0	0	0	0	0	0
+CDN35	X00DEMO003	B0DEMO0003	Calm Dino 35cm	New	34.95	No		Yes	391	380	1	10	391	0.12	0	0	0	0	0	0
+CWH50	X00DEMO004	B0DEMO0004	Cuddle Whale 50cm	New	49.95	No		Yes	235	210	3	22	235	0.12	0	0	0	0	0	0
+GBT03	X00DEMO005	B0DEMO0005	Gift Box Mini Trio	New	24.95	No		Yes	922	900	3	19	922	0.12	0	0	0	0	0	0
